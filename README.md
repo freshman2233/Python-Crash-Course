@@ -3,17 +3,11 @@
 
 中文书名：Python编程：从入门到实践
 英文书名：Python Crash Course: A Hands-On, Project-Based Introduction to Programming
-
 作者：[美] Eric Matthes
-译者：袁国忠
 
-ISBN: 978-7-115-42802-8（中文）
-ISBN: 978-1-593-27603-4（原书）
-
-出版社：人民邮电出版社
 
 源代码下载地址：
-    https://www.ituring.com.cn/book/1861
+https://www.ituring.com.cn/book/1861
 
 
 第一部分    基础知识
